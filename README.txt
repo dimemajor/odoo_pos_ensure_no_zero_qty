@@ -1,0 +1,1 @@
+This pos app prevents cashier from processing a transaction if any of the line items has zero qty. Developed for fraud prevention
